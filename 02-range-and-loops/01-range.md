@@ -29,8 +29,8 @@
 Make sure you have pushed your lists exercises before making any commits on GitHub, otherwise you will have to make a merge commit later.*
 
 1. What does `range` do with a single argument?
-  * [Your answer here]
+  * the operation defaults starting from 0 counting up to the interger in the argument. By 1 unless stated otherwise.
 2. What do the arguments mean if there are 2?
-  * [Your answer here]
+  * The first argument tells the computer where to begin the list. the last argument tells not to be included in the list. 
 3. What does the third argument mean?
-  * [Your answer here]
+  * Tells the computer how many increments to use. EX: range(0,10,2) the computer will count [0, 2, 4, 6, 8]
