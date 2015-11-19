@@ -27,4 +27,11 @@ for item in fruits:
 print 
 for index in range(len(fruits)):
 	print fruits[index],
+print
 
+import math
+def sum_nums(num):
+	num = [0,1,2,3]
+for index in range(math.factorial(num)):
+	print sum_nums(3)
+	
