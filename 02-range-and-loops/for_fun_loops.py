@@ -19,3 +19,12 @@ for index in range (10,-1,-1):
 		print "blastoff!"
 	else: 
 		print index, 
+print
+
+fruits = ["apples", "oranges", "bananas"]
+for item in fruits:
+	print item,  
+print 
+for index in range(len(fruits)):
+	print fruits[index],
+
